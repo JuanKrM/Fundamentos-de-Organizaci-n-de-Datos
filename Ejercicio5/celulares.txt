@@ -1,0 +1,6 @@
+123 599.99 Samsung
+5 3 Pantalla_AMOLED
+Galaxy_S23
+456 999.99 Apple
+10 5 Chip_A16
+iPhone_14
